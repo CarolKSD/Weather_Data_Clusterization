@@ -24,3 +24,7 @@ The dataset includes historical weather data for global capital cities and is so
 1. Clone this repository:
    ```bash
    git clone https://github.com/CarolKSD/Weather_Data_Clusterization.git
+
+## Kepler Clusters Map
+If you want to check the result of the interactive map:
+https://drive.google.com/file/d/1Wao3V8NypGPXZYCehO8ibALu0EeLT7gy/view?usp=share_link
